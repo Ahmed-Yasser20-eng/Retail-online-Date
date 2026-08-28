@@ -65,7 +65,7 @@ Customer Retention Strategies: Implement loyalty and reward programs tailored to
 ### Detailed Dashboard Charts Narrative
 ### •	1. Total Revenue, Orders, Quantity, and Average Revenue (KPI Cards):
 The top KPI cards provide an immediate high-level summary of the overall business performance, recording a
-##### 1.total revenue of 19.68M. 
+##### 1.Total revenue of 19.68M. 
 ##### 2.Toal Orders 1.00M 
 ##### 3.Total orders 11.18M.
 ##### 4.Total quantities20.
