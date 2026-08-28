@@ -74,3 +74,7 @@ Customer Retention Strategies: Implement loyalty and reward programs tailored to
 
 •	6. Revenue & Quantity by Products - Top 10 (Column & Line Combo Chart): This chart isolates the top 10 best-performing products (such as regency cakestand 3 tier), tracking both their revenue contribution percentages and total quantities sold to guide future inventory restocking decisions.
 <img width="1208" height="570" alt="Screenshot 2026-08-28 041256" src="https://github.com/user-attachments/assets/ea1728e0-d89e-4c24-a81d-8fed4960f5d8" />
+
+
+### A Note on Transparency & Data Integrity
+Throughout this project, every analytical choice—from handling data anomalies to defining threshold parameters—was approached with strict transparency and adherence to data integrity. Rather than relying on assumptions when encountering irregular metrics, discrepancies were thoroughly investigated and resolved using evidence-based validation. Furthermore, supplementary structures, such as synthetic inventory logs, are explicitly acknowledged and contextualized, ensuring that all findings and visualizations reflect an honest and accurate representation of the underlying data.
