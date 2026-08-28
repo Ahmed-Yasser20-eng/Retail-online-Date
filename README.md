@@ -3,6 +3,12 @@ This project takes a real, messy two year retail dataset and turns it into a wor
 with every decision along the way reasoned through rather than just executed. It follows the path an actual analytics project
 would take, cleaning and profiling raw data in Paython use Pandas, This project focuses on analyzing online retail data to uncover actionable insights regarding sales trends, product performance, and customer purchasing behaviors. By leveraging advanced dashboard visualizations, the project aims to optimize inventory planning, enhance targeted marketing strategies, and improve overall business decision-making for the upcoming quarter.
 
+📊 Project Presentation
+
+For a detailed overview of the project, methodology, analysis, and key insights, check out the full presentation below:
+
+👉 "View Project Presentation" : [White and Beige Illustrative Business Pitch Deck Presentation - Copy.pdf](https://github.com/user-attachments/files/31563823/White.and.Beige.Illustrative.Business.Pitch.Deck.Presentation.-.Copy.pdf)
+
 
 ### Data Cleaning & Preparation
 •	Before conducting the analysis and building the dashboard, the dataset underwent a rigorous cleaning and structuring process to ensure data integrity and accuracy:
