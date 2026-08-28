@@ -63,26 +63,31 @@ Customer Retention Strategies: Implement loyalty and reward programs tailored to
 
 
 ### Detailed Dashboard Charts Narrative
-•	1. Total Revenue, Orders, Quantity, and Average Revenue (KPI Cards): The top KPI cards provide an immediate high-level summary of the overall business performance, recording a total revenue of 19.68M across 1.00M total orders and 11.18M total quantities sold, with an average revenue per transaction of 20.
+### •	1. Total Revenue, Orders, Quantity, and Average Revenue (KPI Cards):
+The top KPI cards provide an immediate high-level summary of the overall business performance, recording a
+##### 1.total revenue of 19.68M. 
+##### 2.Toal Orders 1.00M 
+##### 3.Total orders 11.18M.
+##### 4.Total quantities20.
 
-##### •	2. Revenue by Country (Bar Chart): 
+### •	2. Revenue by Country (Bar Chart): 
 This chart illustrates the geographical distribution of sales, revealing a massive concentration of revenue in the United Kingdom (generating approximately 17M), while other international markets like the Netherlands, Eire, Germany, and France contribute significantly smaller shares.
 
 <img width="986" height="605" alt="Screenshot 2026-08-28 041440" src="https://github.com/user-attachments/assets/bd985b72-0612-4274-99b7-59349a3a24e1" />
 
-##### •	3. Sales Over The Days (Horizontal Bar Chart):
+### •	3. Sales Over The Days (Horizontal Bar Chart):
 This view breaks down transaction performance across the days of the week, showing steady commercial activity with peak sales performance occurring toward the later part of the workweek (specifically peaking on Thursday with 4.01M).
 <img width="747" height="500" alt="Screenshot 2026-08-28 041347" src="https://github.com/user-attachments/assets/bfc143b4-ef2b-4f57-b04a-c9b6ca3a055f" />
 
-##### •	4. Revenue by Customers - Top 10 (Column & Line Combo Chart):
+### •	4. Revenue by Customers - Top 10 (Column & Line Combo Chart):
 This chart highlights the top 10 high-value customers based on total revenue and quantity purchased, helping isolate key high-tier buyers who drive substantial transaction volume compared to the rest of the customer base.
 <img width="986" height="605" alt="Screenshot 2026-08-28 041440" src="https://github.com/user-attachments/assets/4b33ca5e-492a-40cf-b8dc-c1bd786c1b49" />
 
-##### •	5. Revenue by Year, Month & Quarters (Time-Series Line Chart):
+### •	5. Revenue by Year, Month & Quarters (Time-Series Line Chart):
 This timeline tracks revenue fluctuations across operating years (2009 to 2011), clearly capturing cyclical behavior and recurrent seasonal surges during the fourth quarter (Q4) of each year, followed by standard contractions in the first quarter.
 <img width="1067" height="592" alt="Screenshot 2026-08-28 041007" src="https://github.com/user-attachments/assets/d493105b-1282-4a3a-a047-dd9f12857f22" />
 
-##### •	6. Revenue & Quantity by Products - Top 10 (Column & Line Combo Chart): 
+### •	6. Revenue & Quantity by Products - Top 10 (Column & Line Combo Chart): 
 This chart isolates the top 10 best-performing products (such as regency cakestand 3 tier), tracking both their revenue contribution percentages and total quantities sold to guide future inventory restocking decisions.
 <img width="1208" height="570" alt="Screenshot 2026-08-28 041256" src="https://github.com/user-attachments/assets/ea1728e0-d89e-4c24-a81d-8fed4960f5d8" />
 
